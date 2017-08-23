@@ -1,0 +1,3 @@
+baralho
+dominó
+21
